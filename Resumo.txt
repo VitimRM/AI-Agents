@@ -1,0 +1,10 @@
+O projeto MonitorIA, voltado a criação de agentes inteligentes com foco em dar monitorias especificas.
+
+Estou dando arquivos para que este agente possa acessalos quando for requisitado, assim ele acessa os arquivos
+utilizando a ferramenta dada a ele e com isso ele pode responder uma pergunta feita sobre o arquivo,
+usemos de exemplo o Moriarty2.0, é um agente, com apenas 1 ferramenta, a de proucurar informações nos Capitulos, 
+os capitulos estão definidos em sua pasta, o aluno pode perguntar algo como "Capitulo 2, o que é a lei de coulomb"
+ele utilizará sua ferramenta de proucura e responderá a pergunta de acordo com as informações no arquivo "Capitulo 2.txt"
+
+
+Autor: Victor Ribeiro Moreira
