@@ -1,0 +1,821 @@
+Pessoa: Oi, tudo bem?
+Bot: Olá! Estou ótimo, obrigado por perguntar. E você?
+
+Pessoa: Qual é a raiz quadrada de 144?
+Bot: A raiz quadrada de 144 é 12.
+
+Pessoa: Quantos planetas existem no sistema solar?
+Bot: Atualmente, existem 8 planetas no nosso sistema solar.
+
+Pessoa: Quem pintou a Mona Lisa?
+Bot: A Mona Lisa foi pintada por Leonardo da Vinci.
+
+Pessoa: Qual é o maior animal terrestre?
+Bot: O maior animal terrestre é o elefante-africano.
+
+Pessoa: Quantos graus tem um círculo completo?
+Bot: Um círculo completo tem 360 graus.
+
+Pessoa: O que é a fotossíntese?
+Bot: Fotossíntese é o processo pelo qual plantas convertem luz solar em energia.
+
+Pessoa: Qual é a fórmula da água?
+Bot: A fórmula química da água é H₂O.
+
+Pessoa: Quanto é 7 x 8?
+Bot: 7 multiplicado por 8 é igual a 56.
+
+Pessoa: Qual é a capital do Japão?
+Bot: A capital do Japão é Tóquio.
+
+Pessoa: Quantos ossos tem o corpo humano?
+Bot: O corpo humano adulto tem 206 ossos.
+
+Pessoa: Quem escreveu Dom Quixote?
+Bot: Dom Quixote foi escrito por Miguel de Cervantes.
+
+Pessoa: Qual é o maior oceano do mundo?
+Bot: O maior oceano é o Pacífico.
+
+Pessoa: Quantos lados tem um heptágono?
+Bot: Um heptágono tem 7 lados.
+
+Pessoa: O que causa o arco-íris?
+Bot: O arco-íris é causado pela refração da luz nas gotas de água.
+
+Pessoa: Quanto é 15% de 200?
+Bot: 15% de 200 é igual a 30.
+
+Pessoa: Qual é o animal mais rápido do mundo?
+Bot: O animal mais rápido é o falcão-peregrino, que pode atingir 390 km/h.
+
+Pessoa: Quantos continentes existem?
+Bot: Existem 7 continentes: África, Antártida, Ásia, Europa, América do Norte, América do Sul e Oceania.
+
+Pessoa: Quem foi Albert Einstein?
+Bot: Albert Einstein foi um físico famoso por desenvolver a teoria da relatividade.
+
+Pessoa: Qual é o maior número primo conhecido?
+Bot: O maior número primo conhecido (em 2023) tem mais de 24 milhões de dígitos.
+
+Pessoa: O que é um triângulo isósceles?
+Bot: Um triângulo isósceles tem dois lados iguais e dois ângulos iguais.
+
+Pessoa: Quantos elementos tem a tabela periódica?
+Bot: A tabela periódica tem 118 elementos confirmados.
+
+Pessoa: Quem descobriu a penicilina?
+Bot: A penicilina foi descoberta por Alexander Fleming em 1928.
+
+Pessoa: Qual é a montanha mais alta do mundo?
+Bot: O Monte Everest é a montanha mais alta, com 8.848 metros.
+
+Pessoa: Quantos zeros tem um milhão?
+Bot: Um milhão tem seis zeros (1.000.000).
+
+Pessoa: O que é a mitocôndria?
+Bot: A mitocôndria é a organela responsável pela produção de energia na célula.
+
+Pessoa: Qual é o valor de pi?
+Bot: Pi (π) vale aproximadamente 3,14159.
+
+Pessoa: Quem foi Marie Curie?
+Bot: Marie Curie foi uma cientista pioneira no estudo da radioatividade.
+
+Pessoa: Quantos anos tem um século?
+Bot: Um século tem 100 anos.
+
+Pessoa: Qual é o país mais populoso do mundo?
+Bot: A China é o país mais populoso do mundo.
+
+Pessoa: Quanto é 2 elevado a 10?
+Bot: 2 elevado a 10 é igual a 1024.
+
+Pessoa: O que é a gravidade?
+Bot: Gravidade é a força que atrai objetos com massa uns para os outros.
+
+Pessoa: Qual é o menor país do mundo?
+Bot: O Vaticano é o menor país do mundo em área.
+
+Pessoa: Quantos bits tem um byte?
+Bot: Um byte tem 8 bits.
+
+Pessoa: Quem foi Isaac Newton?
+Bot: Isaac Newton foi o físico que formulou as leis do movimento e da gravitação.
+
+Pessoa: Qual é o símbolo químico do ouro?
+Bot: O símbolo químico do ouro é Au.
+
+Pessoa: Quantos satélites naturais a Terra tem?
+Bot: A Terra tem um único satélite natural: a Lua.
+
+Pessoa: O que é a hipotenusa?
+Bot: A hipotenusa é o lado mais longo de um triângulo retângulo.
+
+Pessoa: Quem inventou a lâmpada?
+Bot: Thomas Edison é creditado como o inventor da lâmpada prática.
+
+Pessoa: Qual é o deserto mais quente do mundo?
+Bot: O Deserto do Saara é o mais quente do mundo.
+
+Pessoa: Quantos quilômetros tem uma milha?
+Bot: Uma milha terrestre equivale a aproximadamente 1,609 quilômetros.
+
+Pessoa: O que é um número primo?
+Bot: Número primo é aquele divisível apenas por 1 e por ele mesmo.
+
+Pessoa: Qual é o maior osso do corpo humano?
+Bot: O fêmur é o maior osso do corpo humano.
+
+Pessoa: Quanto é 3/4 de 100?
+Bot: 3/4 de 100 é igual a 75.
+
+Pessoa: O que é um eclipse solar?
+Bot: Eclipse solar ocorre quando a Lua passa entre a Terra e o Sol.
+
+Pessoa: Qual é a velocidade da luz?
+Bot: A velocidade da luz no vácuo é de 299.792 km/s.
+
+Pessoa: Quantos cromossomos humanos existem?
+Bot: Humanos têm 46 cromossomos (23 pares).
+
+Pessoa: Quem foi William Shakespeare?
+Bot: Shakespeare foi um famoso dramaturgo inglês.
+
+Pessoa: Qual é o metal mais condutor de eletricidade?
+Bot: A prata é o metal mais condutor de eletricidade.
+
+Pessoa: Quantas cordas tem um violão comum?
+Bot: Um violão comum tem 6 cordas.
+
+Pessoa: O que é a lei da gravitação universal?
+Bot: É a lei física que descreve a atração gravitacional entre massas.
+
+Pessoa: Qual é a fórmula da área do círculo?
+Bot: A área do círculo é π multiplicado pelo raio ao quadrado (πr²).
+
+Pessoa: Quem foi Charles Darwin?
+Bot: Charles Darwin propôs a teoria da evolução por seleção natural.
+
+Pessoa: Quantos estados tem o Brasil?
+Bot: O Brasil tem 26 estados e 1 distrito federal.
+
+Pessoa: O que é um logaritmo?
+Bot: Logaritmo é o expoente a que uma base deve ser elevada para obter um número.
+
+Pessoa: Qual é o ponto de ebulição da água?
+Bot: O ponto de ebulição da água ao nível do mar é 100°C.
+
+Pessoa: Quantas vértebras tem a coluna humana?
+Bot: A coluna vertebral humana tem 33 vértebras.
+
+Pessoa: Quem foi Platão?
+Bot: Platão foi um filósofo grego, aluno de Sócrates e professor de Aristóteles.
+
+Pessoa: Qual é o maior mamífero do mundo?
+Bot: A baleia-azul é o maior mamífero do mundo.
+
+Pessoa: Quantas faces tem um cubo?
+Bot: Um cubo tem 6 faces quadradas.
+
+Pessoa: O que é a teoria do Big Bang?
+Bot: É a teoria científica que explica a origem do universo.
+
+Pessoa: Qual é a capital da Austrália?
+Bot: A capital da Austrália é Camberra.
+
+Pessoa: Quanto é 5 fatorial (5!)?
+Bot: 5! = 5 × 4 × 3 × 2 × 1 = 120.
+
+Pessoa: O que é um polígono regular?
+Bot: Polígono regular tem todos os lados e ângulos iguais.
+
+Pessoa: Qual é o rio mais longo do mundo?
+Bot: O rio Nilo é considerado o mais longo, com cerca de 6.650 km.
+
+Pessoa: Quantos elétrons tem um átomo de hidrogênio?
+Bot: Um átomo de hidrogênio tem 1 elétron.
+
+Pessoa: Quem foi Nikola Tesla?
+Bot: Nikola Tesla foi um inventor pioneiro em eletricidade e magnetismo.
+
+Pessoa: Qual é a fórmula do teorema de Pitágoras?
+Bot: a² + b² = c², onde c é a hipotenusa.
+
+Pessoa: O que é um vulcão?
+Bot: Um vulcão é uma abertura na crosta terrestre que libera magma.
+
+Pessoa: Quantos minutos tem uma hora?
+Bot: Uma hora tem 60 minutos.
+
+Pessoa: Qual é o país com maior área territorial?
+Bot: A Rússia é o país com maior área territorial.
+
+Pessoa: Quanto é 0,75 em fração?
+Bot: 0,75 equivale a 3/4.
+
+Pessoa: O que é um eclipse lunar?
+Bot: Eclipse lunar ocorre quando a Terra fica entre o Sol e a Lua.
+
+Pessoa: Qual é o símbolo químico do ferro?
+Bot: O símbolo químico do ferro é Fe.
+
+Pessoa: Quantos anos tem um milênio?
+Bot: Um milênio tem 1000 anos.
+
+Pessoa: Quem foi Galileu Galilei?
+Bot: Galileu foi um astrônomo que defendeu o heliocentrismo.
+
+Pessoa: Qual é a velocidade do som?
+Bot: A velocidade do som no ar é de aproximadamente 343 m/s.
+
+Pessoa: O que é um número irracional?
+Bot: Número irracional não pode ser expresso como fração de inteiros.
+
+Pessoa: Qual é o maior órgão do corpo humano?
+Bot: A pele é o maior órgão do corpo humano.
+
+Pessoa: Quantas horas tem um dia?
+Bot: Um dia tem 24 horas.
+
+Pessoa: Quem foi Sigmund Freud?
+Bot: Sigmund Freud foi o pai da psicanálise.
+
+Pessoa: Qual é a fórmula da velocidade média?
+Bot: Velocidade média = distância / tempo.
+
+Pessoa: O que é um íon?
+Bot: Íon é um átomo ou molécula com carga elétrica.
+
+Pessoa: Quantos graus tem um ângulo reto?
+Bot: Um ângulo reto tem exatamente 90 graus.
+
+Pessoa: Qual é o metal líquido à temperatura ambiente?
+Bot: O mercúrio é o único metal líquido à temperatura ambiente.
+
+Pessoa: Quanto é 10 ao cubo?
+Bot: 10 ao cubo (10³) é igual a 1000.
+
+Pessoa: O que é a clorofila?
+Bot: Clorofila é o pigmento verde responsável pela fotossíntese.
+
+Pessoa: Qual é a capital do Canadá?
+Bot: A capital do Canadá é Ottawa.
+
+Pessoa: Quantas pernas tem uma aranha?
+Bot: As aranhas têm 8 pernas.
+
+Pessoa: Quem foi Marco Polo?
+Bot: Marco Polo foi um explorador veneziano que viajou para a Ásia.
+
+Pessoa: Qual é a fórmula da força?
+Bot: Força = massa × aceleração (F=ma).
+
+Pessoa: O que é um eclipse?
+Bot: Eclipse é o obscurecimento de um corpo celeste por outro.
+
+Pessoa: Quantos meses tem um ano bissexto?
+Bot: Um ano bissexto tem 12 meses, com 366 dias.
+
+Pessoa: Qual é o país com maior número de ilhas?
+Bot: A Suécia tem o maior número de ilhas (cerca de 221.800).
+
+Pessoa: Quanto é 25% de 80?
+Bot: 25% de 80 é igual a 20.
+
+Pessoa: O que é um quadrado perfeito?
+Bot: Quadrado perfeito é um número inteiro que é quadrado de outro inteiro.
+
+Pessoa: Qual é o elemento mais abundante no universo?
+Bot: O hidrogênio é o elemento mais abundante no universo.
+
+Pessoa: Quantos anos tem uma década?
+Bot: Uma década tem 10 anos.
+
+Pessoa: Quem foi Cleópatra?
+Bot: Cleópatra foi a última rainha do Egito ptolomaico.
+
+Pessoa: Qual é a fórmula da densidade?
+Bot: Densidade = massa / volume.
+
+Pessoa: O que é um número complexo?
+Bot: Número complexo tem parte real e parte imaginária (a + bi).
+
+Pessoa: Quantos quartos tem um litro?
+Bot: Um litro tem 4 quartos de litro.
+
+Pessoa: Qual é o animal mais venenoso do mundo?
+Bot: A vespa-do-mar é considerada a criatura mais venenosa.
+
+Pessoa: Quanto é 9 × 7?
+Bot: 9 multiplicado por 7 é igual a 63.
+
+Pessoa: O que é um polímero?
+Bot: Polímero é uma macromolécula formada por unidades repetidas.
+
+Pessoa: Qual é a capital da China?
+Bot: A capital da China é Pequim.
+
+Pessoa: Quantos lados tem um dodecágono?
+Bot: Um dodecágono tem 12 lados.
+
+Pessoa: Quem foi Vincent van Gogh?
+Bot: Van Gogh foi um famoso pintor pós-impressionista.
+
+Pessoa: Qual é a fórmula da circunferência?
+Bot: Circunferência = 2 × π × raio.
+
+Pessoa: O que é um átomo?
+Bot: Átomo é a menor unidade de matéria que mantém propriedades químicas.
+
+Pessoa: Quantos segundos tem um minuto?
+Bot: Um minuto tem 60 segundos.
+
+Pessoa: Qual é o maior lago do mundo?
+Bot: O Mar Cáspio é considerado o maior lago do mundo.
+
+Pessoa: Quanto é 1 + 2 + 3 + ... + 10?
+Bot: A soma de 1 a 10 é 55.
+
+Pessoa: O que é um catalisador?
+Bot: Catalisador é uma substância que acelera reações químicas.
+
+Pessoa: Qual é a capital da Rússia?
+Bot: A capital da Rússia é Moscou.
+
+Pessoa: Quantos dentes tem um adulto?
+Bot: Um adulto tem normalmente 32 dentes.
+
+Pessoa: Quem foi Stephen Hawking?
+Bot: Stephen Hawking foi um físico teórico famoso por seus trabalhos sobre buracos negros.
+
+Pessoa: Qual é a fórmula da energia cinética?
+Bot: Energia cinética = (massa × velocidade²)/2.
+
+Pessoa: O que é um fractal?
+Bot: Fractal é um objeto geométrico com padrões que se repetem em diferentes escalas.
+
+Pessoa: Quantos anos tem um século?
+Bot: Um século tem 100 anos.
+
+Pessoa: Qual é o país mais frio do mundo?
+Bot: A Antártida é o lugar mais frio, mas entre países, a Rússia.
+
+Pessoa: Quanto é 12 × 11?
+Bot: 12 multiplicado por 11 é igual a 132.
+
+Pessoa: O que é um algoritmo?
+Bot: Algoritmo é uma sequência lógica de passos para resolver um problema.
+
+Pessoa: Qual é a capital da Argentina?
+Bot: A capital da Argentina é Buenos Aires.
+
+Pessoa: Quantos ossos tem o crânio humano?
+Bot: O crânio humano adulto tem 22 ossos.
+
+Pessoa: Quem foi Beethoven?
+Bot: Beethoven foi um compositor alemão do período clássico/romântico.
+
+Pessoa: Qual é a fórmula do volume do cubo?
+Bot: Volume do cubo = aresta³.
+
+Pessoa: O que é a entropia?
+Bot: Entropia é uma medida da desordem de um sistema termodinâmico.
+
+Pessoa: Quantos continentes existem?
+Bot: Existem 7 continentes no planeta Terra.
+
+Pessoa: Qual é o metal mais leve?
+Bot: O lítio é o metal mais leve.
+
+Pessoa: Quanto é 8 ÷ 0,5?
+Bot: 8 dividido por 0,5 é igual a 16.
+
+Pessoa: O que é um gene?
+Bot: Gene é uma unidade de hereditariedade composta por DNA.
+
+Pessoa: Qual é a capital da África do Sul?
+Bot: A África do Sul tem três capitais: Pretória, Cidade do Cabo e Bloemfontein.
+
+Pessoa: Quantos satélites tem Júpiter?
+Bot: Júpiter tem pelo menos 79 satélites naturais conhecidos.
+
+Pessoa: Quem foi Pablo Picasso?
+Bot: Picasso foi um pintor espanhol, cofundador do cubismo.
+
+Pessoa: Qual é a fórmula da energia potencial gravitacional?
+Bot: Energia potencial = massa × gravidade × altura.
+
+Pessoa: O que é um quilate?
+Bot: Quilate é unidade de massa para pedras preciosas (1 quilate = 200mg).
+
+Pessoa: Quantos anos tem o planeta Terra?
+Bot: A Terra tem aproximadamente 4,5 bilhões de anos.
+
+Pessoa: Qual é o menor osso do corpo humano?
+Bot: O estribo, no ouvido médio, é o menor osso humano.
+
+Pessoa: Quanto é 4² + 3²?
+Bot: 4² (16) + 3² (9) = 25.
+
+Pessoa: O que é um holograma?
+Bot: Holograma é uma imagem tridimensional criada por interferência de luz.
+
+Pessoa: Qual é a capital da Nova Zelândia?
+Bot: A capital da Nova Zelândia é Wellington.
+
+Pessoa: Quantas estrelas tem a bandeira do Brasil?
+Bot: A bandeira do Brasil tem 27 estrelas.
+
+Pessoa: Quem foi J.K. Rowling?
+Bot: J.K. Rowling é a autora da série Harry Potter.
+
+Pessoa: Qual é a fórmula da lei de Ohm?
+Bot: V = I × R (tensão = corrente × resistência).
+
+Pessoa: O que é um neutrino?
+Bot: Neutrino é uma partícula subatômica com massa quase zero.
+
+Pessoa: Quantos sentidos tem o ser humano?
+Bot: Tradicionalmente, consideramos 5 sentidos: visão, audição, olfato, paladar e tato.
+
+Pessoa: Qual é o maior peixe do mundo?
+Bot: O tubarão-baleia é o maior peixe conhecido.
+
+Pessoa: Quanto é 100 - 47?
+Bot: 100 menos 47 é igual a 53.
+
+Pessoa: O que é um paradoxo?
+Bot: Paradoxo é uma afirmação aparentemente contraditória que pode ser verdadeira.
+
+Pessoa: Qual é a capital da Índia?
+Bot: A capital da Índia é Nova Delhi.
+
+Pessoa: Quantas letras tem o alfabeto português?
+Bot: O alfabeto português tem 26 letras.
+
+Pessoa: Quem foi Machado de Assis?
+Bot: Machado de Assis foi um dos maiores escritores brasileiros.
+
+Pessoa: Qual é a fórmula da aceleração?
+Bot: Aceleração = variação de velocidade / tempo.
+
+Pessoa: O que é um quasar?
+Bot: Quasar é um núcleo galáctico ativo extremamente luminoso.
+
+Pessoa: Quantos elementos químicos ocorrem naturalmente?
+Bot: 94 elementos ocorrem naturalmente na Terra.
+
+Pessoa: Qual é o país com maior expectativa de vida?
+Bot: O Japão tem uma das maiores expectativas de vida do mundo.
+
+Pessoa: Quanto é 17 × 3?
+Bot: 17 multiplicado por 3 é igual a 51.
+
+Pessoa: O que é um nanotubo?
+Bot: Nanotubo é uma estrutura cilíndrica de átomos de carbono.
+
+Pessoa: Qual é a capital da Itália?
+Bot: A capital da Itália é Roma.
+
+Pessoa: Quantos corações tem um polvo?
+Bot: Um polvo tem três corações.
+
+Pessoa: Quem foi Frida Kahlo?
+Bot: Frida Kahlo foi uma importante pintora mexicana.
+
+Pessoa: Qual é a fórmula da pressão?
+Bot: Pressão = força / área.
+
+Pessoa: O que é um buraco negro?
+Bot: Buraco negro é uma região do espaço com gravidade intensa.
+
+Pessoa: Quantos anos tem uma geração?
+Bot: Uma geração humana é geralmente considerada como 25-30 anos.
+
+Pessoa: Qual é o país mais jovem do mundo?
+Bot: O Sudão do Sul é o país mais jovem, independente desde 2011.
+
+Pessoa: Quanto é 1/3 de 99?
+Bot: 1/3 de 99 é igual a 33.
+
+Pessoa: O que é um supercondutor?
+Bot: Supercondutor é material que conduz eletricidade sem resistência.
+
+Pessoa: Qual é a capital da Espanha?
+Bot: A capital da Espanha é Madri.
+
+Pessoa: Quantas vértebras cervicais tem o ser humano?
+Bot: O ser humano tem 7 vértebras cervicais.
+
+Pessoa: Quem foi Nelson Mandela?
+Bot: Nelson Mandela foi um líder anti-apartheid e ex-presidente da África do Sul.
+
+Pessoa: Qual é a fórmula do trabalho mecânico?
+Bot: Trabalho = força × deslocamento × cos(θ).
+
+Pessoa: O que é um exoplaneta?
+Bot: Exoplaneta é um planeta que orbita uma estrela fora do Sistema Solar.
+
+Pessoa: Quantos elementos gasosos existem à temperatura ambiente?
+Bot: Existem 11 elementos gasosos em condições normais.
+
+Pessoa: Qual é o maior bioma brasileiro?
+Bot: A Amazônia é o maior bioma brasileiro.
+
+Pessoa: Quanto é 5 × (3 + 2)?
+Bot: 5 × (3 + 2) = 5 × 5 = 25.
+
+Pessoa: O que é um cromossomo?
+Bot: Cromossomo é uma estrutura que contém o DNA organizado.
+
+Pessoa: Qual é a capital da França?
+Bot: A capital da França é Paris.
+
+Pessoa: Quantas patas tem um inseto?
+Bot: Os insetos têm 6 patas.
+
+Pessoa: Quem foi Alan Turing?
+Bot: Alan Turing foi um matemático pioneiro da ciência da computação.
+
+Pessoa: Qual é a fórmula da potência elétrica?
+Bot: Potência = tensão × corrente (P = V × I).
+
+Pessoa: O que é um fóssil?
+Bot: Fóssil é resto ou vestígio preservado de organismos antigos.
+
+Pessoa: Quantos músculos tem o corpo humano?
+Bot: O corpo humano tem cerca de 600 músculos.
+
+Pessoa: Qual é o menor mamífero do mundo?
+Bot: O morcego-nariz-de-porco é o menor mamífero, pesando 2g.
+
+Pessoa: Quanto é 0,1 × 0,1?
+Bot: 0,1 multiplicado por 0,1 é igual a 0,01.
+
+Pessoa: O que é um eclipse anular?
+Bot: Eclipse anular ocorre quando a Lua não cobre completamente o Sol.
+
+Pessoa: Qual é a capital do Egito?
+Bot: A capital do Egito é Cairo.
+
+Pessoa: Quantas constelações existem oficialmente?
+Bot: Existem 88 constelações oficialmente reconhecidas.
+
+Pessoa: Quem foi Carl Sagan?
+Bot: Carl Sagan foi um astrônomo e divulgador científico famoso.
+
+Pessoa: Qual é a fórmula do momento linear?
+Bot: Momento linear = massa × velocidade.
+
+Pessoa: O que é um vulcão adormecido?
+Bot: Vulcão adormecido é aquele inativo, mas que pode entrar em erupção.
+
+Pessoa: Quantos aminoácidos essenciais existem?
+Bot: Existem 9 aminoácidos essenciais para humanos.
+
+Pessoa: Qual é o metal mais abundante na crosta terrestre?
+Bot: O alumínio é o metal mais abundante na crosta.
+
+Pessoa: Quanto é 2 + 2 × 2?
+Bot: Seguindo a ordem das operações, 2 + (2 × 2) = 6.
+
+Pessoa: O que é um eclipse total?
+Bot: Eclipse total ocorre quando um corpo celeste é completamente obscurecido.
+
+Pessoa: Qual é a capital da Alemanha?
+Bot: A capital da Alemanha é Berlim.
+
+Pessoa: Quantas luas tem Marte?
+Bot: Marte tem duas luas: Fobos e Deimos.
+
+Pessoa: Quem foi Marie Curie?
+Bot: Marie Curie foi pioneira no estudo da radioatividade, ganhadora de dois Nobel.
+
+Pessoa: Qual é a fórmula da capacitância?
+Bot: Capacitância = carga / tensão (C = Q/V).
+
+Pessoa: O que é um gene recessivo?
+Bot: Gene recessivo só se expressa quando presente em dose dupla.
+
+Pessoa: Quantos planetas têm anéis no Sistema Solar?
+Bot: Quatro planetas têm anéis: Júpiter, Saturno, Urano e Netuno.
+
+Pessoa: Qual é o maior felino do mundo?
+Bot: O tigre-siberiano é o maior felino do mundo.
+
+Pessoa: Quanto é 1 litro em mililitros?
+Bot: 1 litro é igual a 1000 mililitros.
+
+Pessoa: O que é um semicondutor?
+Bot: Semicondutor é material com condutividade entre condutores e isolantes.
+
+Pessoa: Qual é a capital da Grécia?
+Bot: A capital da Grécia é Atenas.
+
+Pessoa: Quantas estrelas tem a Via Láctea?
+Bot: A Via Láctea tem entre 100-400 bilhões de estrelas.
+
+Pessoa: Quem foi Rosalind Franklin?
+Bot: Rosalind Franklin contribuiu para a descoberta da estrutura do DNA.
+
+Pessoa: Qual é a fórmula da frequência?
+Bot: Frequência = 1 / período (f = 1/T).
+
+Pessoa: O que é um eclipse parcial?
+Bot: Eclipse parcial ocorre quando apenas parte do corpo celeste é obscurecida.
+
+Pessoa: Quantos pares de costelas tem o ser humano?
+Bot: O ser humano tem 12 pares de costelas.
+
+Pessoa: Qual é o país com maior número de vulcões ativos?
+Bot: A Indonésia tem o maior número de vulcões ativos.
+
+Pessoa: Quanto é 3,14 × 10?
+Bot: 3,14 multiplicado por 10 é igual a 31,4.
+
+Pessoa: O que é um isótopo?
+Bot: Isótopo são átomos do mesmo elemento com números diferentes de nêutrons.
+
+Pessoa: Qual é a capital da Turquia?
+Bot: A capital da Turquia é Ancara.
+
+Pessoa: Quantos aminoácidos formam as proteínas?
+Bot: 20 aminoácidos diferentes formam as proteínas.
+
+Pessoa: Quem foi Euclides?
+Bot: Euclides foi um matemático grego, "pai da geometria".
+
+Pessoa: Qual é a fórmula da resistência elétrica?
+Bot: Resistência = resistividade × comprimento / área (R = ρL/A).
+
+Pessoa: O que é um vulcão extinto?
+Bot: Vulcão extinto é aquele sem atividade há milhares de anos.
+
+Pessoa: Quantas camadas tem a atmosfera terrestre?
+Bot: A atmosfera tem 5 camadas principais.
+
+Pessoa: Qual é o maior réptil do mundo?
+Bot: O crocodilo-de-água-salgada é o maior réptil.
+
+Pessoa: Quanto é 10% de 150?
+Bot: 10% de 150 é igual a 15.
+
+Pessoa: O que é um eclipse híbrido?
+Bot: Eclipse híbrido alterna entre anular e total em diferentes locais.
+
+Pessoa: Qual é a capital da Suíça?
+Bot: A capital da Suíça é Berna.
+
+Pessoa: Quantos elementos tem o primeiro período da tabela periódica?
+Bot: O primeiro período tem apenas 2 elementos: hidrogênio e hélio.
+
+Pessoa: Quem foi Arquimedes?
+Bot: Arquimedes foi um matemático e inventor grego antigo.
+
+Pessoa: Qual é a fórmula da eficiência?
+Bot: Eficiência = (saída útil) / (entrada total).
+
+Pessoa: O que é um gene dominante?
+Bot: Gene dominante se expressa mesmo em dose simples.
+
+Pessoa: Quantos ossos tem um recém-nascido?
+Bot: Um recém-nascido tem cerca de 300 ossos, que se fundem depois.
+
+Pessoa: Qual é o menor país da América do Sul?
+Bot: O Suriname é o menor país da América do Sul em área.
+
+Pessoa: Quanto é 7² - 5²?
+Bot: 49 - 25 = 24.
+
+Pessoa: O que é um eclipse penumbral?
+Bot: Eclipse penumbral ocorre quando a Lua passa pela penumbra da Terra.
+
+Pessoa: Qual é a capital da Holanda?
+Bot: A capital constitucional da Holanda é Amsterdã.
+
+Pessoa: Quantas bases nitrogenadas existem no DNA?
+Bot: O DNA tem 4 bases: adenina, timina, citosina e guanina.
+
+Pessoa: Quem foi Ada Lovelace?
+Bot: Ada Lovelace é considerada a primeira programadora de computadores.
+
+Pessoa: Qual é a fórmula da lei dos gases ideais?
+Bot: PV = nRT (pressão × volume = moles × constante × temperatura).
+
+Pessoa: O que é um eclipse solar parcial?
+Bot: Quando apenas parte do Sol é obscurecida pela Lua.
+
+Pessoa: Quantas pernas tem um camarão?
+Bot: Camarões têm 10 pernas (5 pares).
+
+Pessoa: Qual é o maior artrópode do mundo?
+Bot: O caranguejo-aranha-japonês é o maior artrópode.
+
+Pessoa: Quanto é 1/2 + 1/4?
+Bot: 1/2 (0,5) + 1/4 (0,25) = 0,75 ou 3/4.
+
+Pessoa: O que é um eclipse lunar total?
+Bot: Quando a Lua fica completamente na sombra da Terra.
+
+Pessoa: Qual é a capital da Bélgica?
+Bot: A capital da Bélgica é Bruxelas.
+
+Pessoa: Quantos elétrons tem a camada de valência do oxigênio?
+Bot: O oxigênio tem 6 elétrons na camada de valência.
+
+Pessoa: Quem foi Gregor Mendel?
+Bot: Gregor Mendel foi o "pai da genética" por seus estudos com ervilhas.
+
+Pessoa: Qual é a fórmula da energia interna?
+Bot: ΔU = Q - W (variação da energia = calor - trabalho).
+
+Pessoa: O que é um tsunami?
+Bot: Tsunami é uma série de ondas causadas por deslocamento de água.
+
+Pessoa: Quantos elementos tem o grupo dos halogênios?
+Bot: O grupo dos halogênios tem 5 elementos.
+
+Pessoa: Qual é o maior deserto do mundo?
+Bot: O maior deserto é a Antártida, seguido pelo Saara.
+
+Pessoa: Quanto é 0,5 em fração?
+Bot: 0,5 equivale a 1/2.
+
+Pessoa: O que é um terremoto?
+Bot: Terremoto é vibração da Terra causada por movimento das placas tectônicas.
+
+Pessoa: Qual é a capital da Noruega?
+Bot: A capital da Noruega é Oslo.
+
+Pessoa: Quantas estrelas tem o Sistema Solar?
+Bot: O Sistema Solar tem apenas uma estrela: o Sol.
+
+Pessoa: Quem foi Alexander Graham Bell?
+Bot: Alexander Graham Bell é creditado como inventor do telefone.
+
+Pessoa: Qual é a fórmula da quantidade de movimento angular?
+Bot: L = m × v × r (massa × velocidade × raio).
+
+Pessoa: O que é um tornado?
+Bot: Tornado é coluna de ar rotativa violenta em contato com o solo.
+
+Pessoa: Quantos elétrons tem um átomo neutro de carbono?
+Bot: Um átomo de carbono neutro tem 6 elétrons.
+
+Pessoa: Qual é o menor continente do mundo?
+Bot: A Oceania é o menor continente.
+
+Pessoa: Quanto é 3 × 0,333...?
+Bot: 3 × 0,333... = 0,999... que é igual a 1.
+
+Pessoa: O que é um furacão?
+Bot: Furacão é sistema tropical com ventos acima de 119 km/h.
+
+Pessoa: Qual é a capital da Suécia?
+Bot: A capital da Suécia é Estocolmo.
+
+Pessoa: Quantos elétrons cabem no primeiro nível de energia?
+Bot: No primeiro nível cabem no máximo 2 elétrons.
+
+Pessoa: Quem foi Louis Pasteur?
+Bot: Louis Pasteur foi um cientista pioneiro em microbiologia e vacinas.
+
+Pessoa: Qual é a fórmula da lei de Coulomb?
+Bot: F = k × (|q₁q₂|)/r² (força entre cargas elétricas).
+
+Pessoa: O que é um eclipse solar anular?
+Bot: Quando a Lua está mais distante e não cobre totalmente o Sol.
+
+Pessoa: Quantos ossos tem a mão humana?
+Bot: Cada mão humana tem 27 ossos.
+
+Pessoa: Qual é o maior lago de água doce do mundo?
+Bot: O Lago Superior (EUA/Canadá) é o maior em área.
+
+Pessoa: Quanto é 2⁻¹?
+Bot: 2⁻¹ é igual a 1/2 ou 0,5.
+
+Pessoa: O que é um tufão?
+Bot: Tufão é o nome dado aos ciclones tropicais no Pacífico noroeste.
+
+Pessoa: Qual é a capital da Finlândia?
+Bot: A capital da Finlândia é Helsinque.
+
+Pessoa: Quantos elétrons tem um átomo neutro de sódio?
+Bot: Um átomo de sódio neutro tem 11 elétrons.
+
+Pessoa: Quem foi Dmitri Mendeleev?
+Bot: Dmitri Mendeleev criou a primeira versão da tabela periódica.
+
+Pessoa: Qual é a fórmula da lei de Faraday?
+Bot: ε = -N × (ΔΦ/Δt) (força eletromotriz induzida).
+
+Pessoa: O que é um eclipse lunar parcial?
+Bot: Quando apenas parte da Lua entra na sombra da Terra.
+
+Pessoa: Quantos ossos tem o pé humano?
+Bot: Cada pé humano tem 26 ossos.
+
+Pessoa: Qual é o maior lago da África?
+Bot: O Lago

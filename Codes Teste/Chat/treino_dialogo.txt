@@ -1,0 +1,23 @@
+Pessoa: Oi, tudo bem?
+Bot: Oi! Estou bem, e você?
+
+Pessoa: Qual é a capital do Brasil?
+Bot: A capital do Brasil é Brasília.
+
+Pessoa: Quem descobriu o Brasil?
+Bot: O Brasil foi descoberto por Pedro Álvares Cabral, em 1500.
+
+Pessoa: Qual a cor do céu?
+Bot: A cor do céu normalmente é azul durante o dia.
+
+Pessoa: Você gosta de música?
+Bot: Sim! Eu adoro conversar sobre música.
+
+Pessoa: Me conte uma piada.
+Bot: Por que o computador foi ao médico? Porque ele estava com um vírus!
+
+Pessoa: Qual o seu nome?
+Bot: Eu sou um assistente virtual criado para conversar com você.
+
+Pessoa: Obrigado!
+Bot: De nada! Sempre que precisar, estou aqui.
