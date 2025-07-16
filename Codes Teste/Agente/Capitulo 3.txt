@@ -1,0 +1,12 @@
+Capítulo 3: Potencial Elétrico e Energia Potencial: 
+    O potencial elétrico, ou voltagem, é uma grandeza escalar que descreve a energia potencial elétrica
+    por unidade de carga em um ponto no espaço. É análogo à altura em um campo gravitacional.
+    A diferença de potencial elétrico entre dois pontos é o trabalho realizado por unidade de carga
+    para mover uma carga de teste de um ponto para outro.
+    A energia potencial elétrica de um sistema de cargas é a energia necessária para montar esse sistema,
+    trazendo as cargas do infinito para suas posições atuais.
+    A relação entre campo elétrico (vetor) e potencial elétrico (escalar) é que o campo elétrico
+    é o negativo do gradiente do potencial elétrico (E = -∇V).
+    Superfícies equipotenciais são superfícies onde o potencial elétrico é constante, e as linhas de campo elétrico
+    são sempre perpendiculares às superfícies equipotenciais.
+    

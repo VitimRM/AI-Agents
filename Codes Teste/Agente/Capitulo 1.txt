@@ -1,0 +1,10 @@
+Capítulo 1: Introdução ao Eletromagnetismo:
+    O eletromagnetismo é o ramo da física que estuda a interação entre campos elétricos e magnéticos.
+    Historicamente, a eletricidade e o magnetismo eram vistos como fenômenos separados.
+    No entanto, experimentos de Oersted, Ampère e Faraday demonstraram a profunda conexão entre eles.
+    A teoria unificada do eletromagnetismo foi formulada por James Clerk Maxwell no século XIX,
+    com suas famosas equações de Maxwell, que descrevem como cargas elétricas e correntes
+    produzem campos elétricos e magnéticos, e como esses campos interagem entre si.
+    O eletromagnetismo é fundamental para a compreensão de fenômenos como a luz, ondas de rádio,
+    e o funcionamento de motores elétricos e geradores.
+    
