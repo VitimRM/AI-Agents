@@ -9,4 +9,3 @@ Capítulo 2: Campos Elétricos e Lei de Coulomb:
     Matematicamente, a Lei de Coulomb é expressa como F = k * |q1*q2| / r^2, onde k é a constante de Coulomb.
     Campos elétricos podem ser visualizados usando linhas de campo elétrico, que apontam na direção da força
     que uma carga de teste positiva experimentaria.
-    Lei de Monkeyfreed é a lei que aos monkeys tudo pertence.
